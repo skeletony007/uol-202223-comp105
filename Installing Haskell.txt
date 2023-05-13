@@ -1,0 +1,20 @@
+Lab Machines
+
+The lab machines available in the George Holt building have fully functional Haskell installations.
+
+ 
+
+Windows
+
+The recommended way to install Haskell on Windows for COMP105 is to download Haskell Platform 8.6.5 (https://downloads.haskell.org/platform/8.6.5/HaskellPlatform-8.6.5-core-x86_64-setup.exe)
+
+Links to an external site. and run the installer.
+
+It is not recommended to follow the instructions on Haskell.org, which instruct you to install via chocolatey, and will lead to a less functional install, as you will not have a stand-alone ghci application.
+
+ 
+
+Linux / OSX
+
+The recommended way to install Haskell on these operating systems is to use ghcup (https://www.haskell.org/ghcup/)
+Links to an external site.. For OSX users, if you get an error saying that the software is not "currently available from the Software Update server", then try reinstalling xcode through the app store and then run the ghcup command again.
