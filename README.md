@@ -7,3 +7,5 @@ At the end of the module, students will be able to
 - Apply recursion to solve algorithmic tasks.
 - Apply common functional programming idioms such as map, filter, fold and scan.
 - Write programs using a functional programming language.
+
+**⚠️ this branch is depreciated**
